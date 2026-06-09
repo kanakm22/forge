@@ -61,3 +61,9 @@ button:hover{
   text-align: center;
   border-top: solid 0.25px rgba(255,255,255,0.5); 
 }
+
+.history{
+  overflow-y :scroll;
+  scrollbar-color: #424242 #212121;
+  scrollbar-width: thin;
+}
