@@ -28,6 +28,12 @@
 
 }
 
-/* .assistantMsg{
+/* default class of code generated block  */
+.hljs{
+  border-radius: 40px !important;
+}
 
-} */
+pre{
+  white-space: pre-wrap;
+}
+
