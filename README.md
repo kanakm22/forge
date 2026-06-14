@@ -4,7 +4,6 @@ Forge is a full-stack, AI-powered conversational platform designed to mirror mod
 
 ---
 
-## 🌟 Features
 
 ## 🌟 Features
 
